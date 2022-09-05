@@ -43,7 +43,7 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item" title="Logo">
               <h1>Шебет</h1>
             </Link>
-              <GitHubButton href="https://www.facebook.com/serbetbezr/">прати на фејсбуку</GitHubButton>
+              
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -72,7 +72,7 @@ const Navbar = class extends React.Component {
               Контакт
               </Link>
               <Link className="navbar-item" to="/contact/examples">
-               форме за контакт
+               пошаљи
               </Link>
             </div>           
           </div>
