@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import GitHubButton from 'react-github-btn'
+
 
 const Navbar = class extends React.Component {
   constructor(props) {
