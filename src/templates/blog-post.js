@@ -41,7 +41,7 @@ export const BlogPostTemplate = ({
             </h1>
             <p className="blogPostDescription">{description}</p>
             
-            <p className="blogPostedDetails">Posted by <span className="blogPostAuthor">Simar Mann Singh</span> on <span className="blogPostDate">{date}</span>  </p>
+            <p className="blogPostedDetails"> <span className="blogPostDate">{date}</span>  </p>
 
             <div className="line"></div>
 
@@ -50,7 +50,7 @@ export const BlogPostTemplate = ({
               
               {tags && tags.length ? (
                 <div style={{ marginTop: `4rem` }}>
-                  <h4>Tags</h4>
+                  <h4>Tagovi</h4>
                   <ul className="taglist">
                     {tags.map((tag) => (
                       <li key={tag + `tag`} className="center" >
