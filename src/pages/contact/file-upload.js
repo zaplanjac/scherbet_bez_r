@@ -46,7 +46,7 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content" style={{width: '60vw', margin: '1em auto'}}>
-              <h1>Пошаљи фотографију са телефона-рачунара или прилог у другачијем формату (пдф,тхт,доц...)</h1>
+              <h1>Са телефона или свог рачунара пошаљи фотографију или неки прилог у другачијем формату (пдф,тхт,доц...)</h1>
               <form
                 name="file-upload"
                 method="post"
