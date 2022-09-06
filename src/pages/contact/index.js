@@ -41,7 +41,7 @@ export default class Index extends React.Component {
             <div className="content" style={{width: '60vw', margin: '1em auto'}}>
               <h1>Контакт</h1>
               <form
-                name="contact"
+                name="контакт contact"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
