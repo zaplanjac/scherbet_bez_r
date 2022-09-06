@@ -46,7 +46,7 @@ export default class Contact extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content" style={{width: '60vw', margin: '1em auto'}}>
-              <h1>фајл за слање</h1>
+              <h1>Пошаљи фотографију или прилог у другачијем формату (пдф,тхт,доц...)</h1>
               <form
                 name="file-upload"
                 method="post"
@@ -88,7 +88,7 @@ export default class Contact extends React.Component {
                         onChange={this.handleAttachment}
                       />
                       <span className="file-cta">
-                        <span className="file-label">изабери фотографију или неки други фајл…</span>
+                        <span className="file-label">изабери са телефона или...</span>
                       </span>
                     </label>
                   </div>
