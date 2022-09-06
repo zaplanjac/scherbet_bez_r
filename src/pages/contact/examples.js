@@ -15,7 +15,7 @@ export default class Index extends React.Component {
               </p>
               <ul>
                 <li>
-                  <Link to="/contact">Контакт</Link>
+                  <Link to="/contact">Контакт преко имејла (e-mail)</Link>
                 </li>
                 <li>
                   <Link to="/contact/file-upload/">Контакт за слање прилога</Link>
