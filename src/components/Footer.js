@@ -56,6 +56,11 @@ const Footer = class extends React.Component {
                     <li>
                       <Link className="navbar-item" to="/contact">
                         контакт
+                       </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/contact/file-upload/">
+                        пошаљи прилог
                       </Link>
                     </li>
                   </ul>
