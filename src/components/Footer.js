@@ -69,7 +69,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" target="_blank" rel="noreferrer" href="https://twitter.com">
+                <a title="twitter" target="_blank" rel="noreferrer" href="https://twitter.com/seloschebet">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -77,14 +77,14 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" target="_blank" rel="noreferrer" href="https://instagram.com">
+                <a title="instagram" target="_blank" rel="noreferrer" href="https://www.instagram.com/scherbetbezr/">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" target="_blank" rel="noreferrer" href="https://vimeo.com">
+                <a title="vimeo" target="_blank" rel="noreferrer" href="https://vimeo.com/user138953353">
                   <img
                     src={vimeo}
                     alt="Vimeo"
