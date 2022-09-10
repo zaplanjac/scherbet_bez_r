@@ -11,9 +11,7 @@ description: oki
 intro:
   heading: oki
   description: oki
-  blurbs:
-    - image: /img/добродошли-.jpg
-      text: oki
+  blurbs: []
 main:
   heading: oki
   description: oki
