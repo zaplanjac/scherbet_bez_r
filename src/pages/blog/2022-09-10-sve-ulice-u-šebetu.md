@@ -7,7 +7,7 @@ featuredpost: true
 featuredimage: /img/ulice-u-šebetu.png
 tags:
   - ulice
-  - šebet
+  - Šebet
 ---
 <https://www.planplus.rs/sebet/ulice>
 
