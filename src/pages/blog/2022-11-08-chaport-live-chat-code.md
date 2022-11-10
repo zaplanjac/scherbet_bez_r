@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: " Chaport Live Chat code"
 date: 2022-11-04T19:36:53.512Z
-description: " Chaport Live Chat code"
+description: " Chaport Live Chat "
 featuredpost: true
 featuredimage: /img/livechat.jpeg
 tags:
